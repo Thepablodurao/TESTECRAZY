@@ -76,3 +76,17 @@ worksheet.set_column('D:XFD', None, None, {'hidden': True})
 
 writer.save()
 os.startfile('CONSTRUTORAS - FORNECEDORES.xlsx')
+
+
+
+
+´LPDAÁDL´PDA´LPDA
+KPODAKPOADDA
+
+PKODAKOPDAOKDA
+
+
+DAOPKADKOPODAAD
+
+
+KOPDAKOPDAODA
